@@ -1,5 +1,8 @@
 # application-web_scrapping_1
+
 % Copyright by D. Walczak
+
+
 % Rev 0
 % 2015/09
 % This short function-script takes as an input two arguments:
